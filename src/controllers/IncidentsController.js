@@ -17,7 +17,7 @@ module.exports = {
         "ngos.fu"
       ]); 
 
-    resp.headers("X-Total-Count", count["count(*)"]);
+    resp.header("X-Total-Count", count["count(*)"]);
 
     return resp.json(incidents);
   },
