@@ -7,7 +7,7 @@
 ## 🔎️ Description
 Back-end side of BeTheHero project.
 
-This project was made during the <a href="https://rocketseat.com.br/">OmniStack week 11.0</a> course on Udemy.
+This project was made during the <a href="https://rocketseat.com.br/">OmniStack week 11.0</a>.
 
 ## 🚀️ Technologies
 
